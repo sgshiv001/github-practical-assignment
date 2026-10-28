@@ -1,0 +1,7 @@
+{
+  "application": "heap-priority-queue-lab",
+  "environment": "demo",
+  "image": "python:3.11-slim",
+  "replicas": 2,
+  "change_policy": "pull-request"
+}
